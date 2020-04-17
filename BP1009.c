@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main ()
 {
     char seller_name[100];
