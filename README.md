@@ -1,10 +1,10 @@
 # URI-beginners-problems
-URI online judge beginners problem 1001\n
-URI online judge beginners problem 1002\n
-URI online judge beginners problem 1003\n
-URI online judge beginners problem 1004\n
-URI online judge beginners problem 1005\n
-URI online judge beginners problem 1006\n
+URI online judge beginners problem 1001
+URI online judge beginners problem 1002
+URI online judge beginners problem 1003
+URI online judge beginners problem 1004
+URI online judge beginners problem 1005
+URI online judge beginners problem 1006
 URI online judge beginners problem 1007
 URI online judge beginners problem 1008
 URI online judge beginners problem 1009
